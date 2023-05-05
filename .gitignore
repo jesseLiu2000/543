@@ -1,2 +1,4 @@
 __pycache__/
-data/
+data/Test.csv
+data/Train.csv
+data/Valid.csv
