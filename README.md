@@ -28,8 +28,8 @@ To make sure our project is working, we reran all the code today, and there may 
 
 Specific details are available in 
 ```
-src/part1/READMD.md
+src/part1/README.md
 ```
 ```
-src/part2/READMD.md
+src/part2/README.md
 ```
